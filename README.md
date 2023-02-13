@@ -1,5 +1,5 @@
 ## Hi, I’m Félix Gasiaux </H1>
-I am a 17 year old student in the little country of Luxembourg :). 
+I am a 18 year old student in the little country of Luxembourg :). 
 Feel free to take a look around, it is public for a reason.
 I’m interested in everything tech and mechanics. In my freetime I enjoy working on personal projects going from electronics to programming to some light engineering. 
 <br>
@@ -7,7 +7,7 @@ I’m interested in everything tech and mechanics. In my freetime I enjoy workin
   - The Mini Makerfair in Rosport in 2019 and 2022
   - First Global Competition in 2019 representing Teams Luxembourg
   - CanSat in 2021 and 2022 and our team being selected to represent Luxembourg in the Europeoan Challenge in 2021
-  - and I probably forgot a few :)
+  - Vex Spin-Up Mentor for the 2023 CodeClub Team in Luxembourg 
 <br>
 
 - How to reach me:
