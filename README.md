@@ -11,8 +11,6 @@ I’m interested in everything tech and mechanics. In my freetime I enjoy workin
 <br>
 
 - How to reach me:
-  - Instagram: [felixgasiaux](https://www.instagram.com/felixgasiaux/)
-  - Reddit: [Felix_Gasiaux](https://www.reddit.com/user/Felix_Gasiaux)
   - In [Level 2](https://level2.lu/) every Thursday 6-8 pm 
 
 <!---
